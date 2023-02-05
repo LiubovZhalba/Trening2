@@ -1,0 +1,15 @@
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\obj\Debug\net6.0\TRENING2.csproj.AssemblyReference.cache
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\obj\Debug\net6.0\TRENING2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\obj\Debug\net6.0\TRENING2.AssemblyInfoInputs.cache
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\obj\Debug\net6.0\TRENING2.AssemblyInfo.cs
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\obj\Debug\net6.0\TRENING2.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\bin\Debug\net6.0\TRENING2.exe
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\bin\Debug\net6.0\TRENING2.deps.json
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\bin\Debug\net6.0\TRENING2.runtimeconfig.json
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\bin\Debug\net6.0\TRENING2.dll
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\bin\Debug\net6.0\ref\TRENING2.dll
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\bin\Debug\net6.0\TRENING2.pdb
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\obj\Debug\net6.0\TRENING2.dll
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\obj\Debug\net6.0\ref\TRENING2.dll
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\obj\Debug\net6.0\TRENING2.pdb
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\obj\Debug\net6.0\TRENING2.genruntimeconfig.cache
