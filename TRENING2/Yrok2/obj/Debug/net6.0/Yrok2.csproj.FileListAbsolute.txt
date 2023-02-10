@@ -1,0 +1,15 @@
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\bin\Debug\net6.0\Yrok2.exe
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\bin\Debug\net6.0\Yrok2.deps.json
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\bin\Debug\net6.0\Yrok2.runtimeconfig.json
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\bin\Debug\net6.0\Yrok2.dll
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\bin\Debug\net6.0\ref\Yrok2.dll
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\bin\Debug\net6.0\Yrok2.pdb
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\obj\Debug\net6.0\Yrok2.csproj.AssemblyReference.cache
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\obj\Debug\net6.0\Yrok2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\obj\Debug\net6.0\Yrok2.AssemblyInfoInputs.cache
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\obj\Debug\net6.0\Yrok2.AssemblyInfo.cs
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\obj\Debug\net6.0\Yrok2.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\obj\Debug\net6.0\Yrok2.dll
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\obj\Debug\net6.0\ref\Yrok2.dll
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\obj\Debug\net6.0\Yrok2.pdb
+C:\Users\Alexandr Luba\Desktop\Python\Lengiuge2\TRENING2\Yrok2\obj\Debug\net6.0\Yrok2.genruntimeconfig.cache
