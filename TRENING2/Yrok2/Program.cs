@@ -44,25 +44,34 @@
 
 //Console.WriteLine(result
 
+int CutNumber(int number)
+//{
+    //int sot = number / 100;
+    
 
-int CutNumber(int number);
+    //int result = sot * 10;
+    //return result;
+//}
+
+
+//int CutNumber(int number)
 {
-    int number = 1;
-    int index = 0;
-    int result = 0;
+  int index = 0;
+  int result = 0;
+  int max = 3;
 
-        while(index<3)
-        {   
-        result = number / 10;
-        index++;
-        }
-        return result;
+    while(index < max)
+    {   
+      result = number / 10;
+      index++;
+    }
+    return result;
 }
 
 Console.Write("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-int newNam = CutNumber(num);
-int newNam2 = newNam % 10;
+int newNum = CutNumber(num);
+int newNum2 = newNum % 10;
 
-Console.WriteLine(newNam2);
+Console.WriteLine(newNum2);
